@@ -65,7 +65,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/arcos-dorados-thumb-b.jpg": {
 		"fileType": 16384,
@@ -76,7 +76,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/arcos-dorados-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/fierro-hotel-thumb-b.jpg": {
 		"fileType": 16384,
@@ -87,7 +87,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/fierro-hotel-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/la-morada-thumb-b.jpg": {
 		"fileType": 16384,
@@ -98,7 +98,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/la-morada-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/menu-icon.png": {
 		"fileType": 32768,
@@ -109,7 +109,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/menu-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/nicolas-trombetta-thumb-b.jpg": {
 		"fileType": 16384,
@@ -120,7 +120,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/nicolas-trombetta-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-00.jpg": {
 		"fileType": 16384,
@@ -131,7 +131,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-00.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-01.jpg": {
 		"fileType": 16384,
@@ -142,7 +142,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-02.jpg": {
 		"fileType": 16384,
@@ -153,7 +153,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-03.jpg": {
 		"fileType": 16384,
@@ -164,7 +164,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-04.jpg": {
 		"fileType": 16384,
@@ -175,7 +175,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-05.jpg": {
 		"fileType": 16384,
@@ -186,7 +186,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/arcos-dorados\/arcos-dorados-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-01.jpg": {
 		"fileType": 16384,
@@ -197,7 +197,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-02.jpg": {
 		"fileType": 16384,
@@ -208,7 +208,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-03.jpg": {
 		"fileType": 16384,
@@ -219,7 +219,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-04.jpg": {
 		"fileType": 16384,
@@ -230,7 +230,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-05.jpg": {
 		"fileType": 16384,
@@ -241,7 +241,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-06.jpg": {
 		"fileType": 16384,
@@ -252,7 +252,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-07.jpg": {
 		"fileType": 16384,
@@ -263,7 +263,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-07.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-08.jpg": {
 		"fileType": 16384,
@@ -274,7 +274,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/fierro-website\/fierro-website-08.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-00.jpg": {
 		"fileType": 16384,
@@ -285,7 +285,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-00.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-01.jpg": {
 		"fileType": 16384,
@@ -296,7 +296,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-02.jpg": {
 		"fileType": 16384,
@@ -307,7 +307,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-03.jpg": {
 		"fileType": 16384,
@@ -318,7 +318,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-04.jpg": {
 		"fileType": 16384,
@@ -329,7 +329,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-05.jpg": {
 		"fileType": 16384,
@@ -340,7 +340,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/la-morada-de-los-andes\/la-morada-de-los-andes-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-00.jpg": {
 		"fileType": 16384,
@@ -351,7 +351,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-00.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-01.jpg": {
 		"fileType": 16384,
@@ -362,7 +362,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-02.jpg": {
 		"fileType": 16384,
@@ -373,7 +373,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-03.jpg": {
 		"fileType": 16384,
@@ -384,7 +384,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-04.jpg": {
 		"fileType": 16384,
@@ -395,7 +395,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-05.jpg": {
 		"fileType": 16384,
@@ -406,7 +406,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/nicolas-trombetta\/nicolas-trombetta-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-01.jpg": {
 		"fileType": 16384,
@@ -417,7 +417,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-02.jpg": {
 		"fileType": 16384,
@@ -428,7 +428,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-03.jpg": {
 		"fileType": 16384,
@@ -439,7 +439,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-04.jpg": {
 		"fileType": 16384,
@@ -450,7 +450,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-05.jpg": {
 		"fileType": 16384,
@@ -461,7 +461,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/tienda-ludus\/tienda-ludus-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/portfolio\/time-to-color\/time-to-color-01.png": {
 		"fileType": 32768,
@@ -472,7 +472,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/portfolio\/time-to-color\/time-to-color-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/tienda-ludus-thumb-b.jpg": {
 		"fileType": 16384,
@@ -483,7 +483,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/tienda-ludus-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/imgs\/time-to-color-thumb-b.jpg": {
 		"fileType": 16384,
@@ -494,7 +494,7 @@
 		"outputAbbreviatedPath": "\/lib\/imgs\/time-to-color-thumb-b.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/lib\/js\/functions.js": {
 		"fileType": 64,
@@ -546,6 +546,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/lib\/js\/jquery.easing.1.3.js",
 		"outputAbbreviatedPath": "\/lib\/js\/min\/jquery.easing.1.3-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/lib\/js\/min\/functions-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lib\/js\/min\/functions-min.js",
+		"outputAbbreviatedPath": "\/lib\/js\/min\/min\/functions-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
