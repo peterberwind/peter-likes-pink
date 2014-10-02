@@ -69,7 +69,7 @@ img { display: block !important; }
 /* Hello */
 
 a {
-	color: #000;
+	color: #00000;
 	text-decoration: none;
 	-webkit-transition: all 0.5s;
        -moz-transition: all 0.5s;
@@ -473,7 +473,7 @@ canvas {
 }
 
 .top:hover {
-	color: #fe9999;
+	color: #000;
 }
 
 .project-title {
